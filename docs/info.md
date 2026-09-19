@@ -17,4 +17,4 @@ Use the DIP switch to control the 7-segment display
 
 ## External hardware
 
-7-segment display
+7-segment display 
